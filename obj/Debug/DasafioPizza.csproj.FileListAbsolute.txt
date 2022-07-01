@@ -1,0 +1,11 @@
+C:\Users\matheus.clima14\OneDrive - SENAC - SP\Documentos\UC9\DasafioPizza\DasafioPizza\bin\Debug\DasafioPizza.exe.config
+C:\Users\matheus.clima14\OneDrive - SENAC - SP\Documentos\UC9\DasafioPizza\DasafioPizza\bin\Debug\DasafioPizza.exe
+C:\Users\matheus.clima14\OneDrive - SENAC - SP\Documentos\UC9\DasafioPizza\DasafioPizza\bin\Debug\DasafioPizza.pdb
+C:\Users\matheus.clima14\OneDrive - SENAC - SP\Documentos\UC9\DasafioPizza\DasafioPizza\obj\Debug\DasafioPizza.csproj.AssemblyReference.cache
+C:\Users\matheus.clima14\OneDrive - SENAC - SP\Documentos\UC9\DasafioPizza\DasafioPizza\obj\Debug\DasafioPizza.csproj.SuggestedBindingRedirects.cache
+C:\Users\matheus.clima14\OneDrive - SENAC - SP\Documentos\UC9\DasafioPizza\DasafioPizza\obj\Debug\DasafioPizza.Form1.resources
+C:\Users\matheus.clima14\OneDrive - SENAC - SP\Documentos\UC9\DasafioPizza\DasafioPizza\obj\Debug\DasafioPizza.Properties.Resources.resources
+C:\Users\matheus.clima14\OneDrive - SENAC - SP\Documentos\UC9\DasafioPizza\DasafioPizza\obj\Debug\DasafioPizza.csproj.GenerateResource.cache
+C:\Users\matheus.clima14\OneDrive - SENAC - SP\Documentos\UC9\DasafioPizza\DasafioPizza\obj\Debug\DasafioPizza.csproj.CoreCompileInputs.cache
+C:\Users\matheus.clima14\OneDrive - SENAC - SP\Documentos\UC9\DasafioPizza\DasafioPizza\obj\Debug\DasafioPizza.exe
+C:\Users\matheus.clima14\OneDrive - SENAC - SP\Documentos\UC9\DasafioPizza\DasafioPizza\obj\Debug\DasafioPizza.pdb
